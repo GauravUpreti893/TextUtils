@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "fb1232dd137ec7658877",
+    "revision": "a47589e25771c0d80d60",
     "url": "/TextUtils/static/css/main.aadf649f.chunk.css"
   },
   {
-    "revision": "fb1232dd137ec7658877",
-    "url": "/TextUtils/static/js/main.fb1232dd.chunk.js"
+    "revision": "a47589e25771c0d80d60",
+    "url": "/TextUtils/static/js/main.a47589e2.chunk.js"
   },
   {
     "revision": "aa1ef92c5cf7728f9d0a",
     "url": "/TextUtils/static/js/1.aa1ef92c.chunk.js"
   },
   {
-    "revision": "0b832a9bb11d7e92bd08",
-    "url": "/TextUtils/static/js/2.0b832a9b.chunk.js"
+    "revision": "c638b76ae86b6134bd70",
+    "url": "/TextUtils/static/js/2.c638b76a.chunk.js"
   },
   {
     "revision": "d4728a5b0ac474055c13",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/TextUtils/static/media/profileimg.1aca671b.jpg"
   },
   {
-    "revision": "7af448c184cee349da5619ea6e45cce0",
+    "revision": "88d729fc80eaf2d681c9bf4caea0f2f9",
     "url": "/TextUtils/index.html"
   }
 ];
